@@ -1073,7 +1073,7 @@ export default function App() {
         currentUser={currentUser}
         onAuthClick={() => {
           setAuthMode('login');
-          setAuthForm({ username: '', password: '', fullName: '' });
+          setAuthForm({ username: '', password: '', fullName: '', email: '' });
           setAuthError('');
           setAuthModalOpen(true);
         }}
