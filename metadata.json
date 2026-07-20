@@ -1,0 +1,6 @@
+{
+  "name": "Daily Articles for Students",
+  "description": "A modern, responsive, SEO-optimized educational website providing students with high-quality daily articles, study tips, notes, and exam preparation resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
